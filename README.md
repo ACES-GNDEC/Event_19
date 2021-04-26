@@ -29,8 +29,10 @@ The Topics of the event are :
 • PIXEL ‘21
 |Name                  |CRN       |BRANCH   |POSITION   |
 |----------------------|----------|---------|-----------|
-|Ketan Singh           |CE        |1814061  |FIRST      |
-|Gurkirat Singh        |CE        |2014024  |SECOND     |
-|Kunwardeep Singh      |IT        |2021138  |THIRD      |
+|Ketan Singh           |1814061   |CE       |FIRST      |
+|Gurkirat Singh        |2014024   |CE       |SECOND     |
+|Kunwardeep Singh      |2021138   |IT       |THIRD      |
 
-|Astha                 |1921016   |CE       |THIRD      | 
+
+## Outcomes
+The aim of this competition was to enhance the creative skills, artistic skills, technical skills, ability to work & thinking capacity.
